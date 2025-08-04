@@ -1,6 +1,6 @@
 <h2>Languages and Softwares</h2>
 
-<p align="center">
+<p>
   <img alt="Java" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="JavaScript" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img alt="TypeScript" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
