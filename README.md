@@ -18,4 +18,3 @@
 <img align="left" alt="FastAPI" width="25px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
 <img align="left" alt="Blender" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 <img align="left" alt="Tailwind CSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="Bootstrap" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
